@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "AO3 dark mode",
+    "description": "This extension will make reading fics at night easier!",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+  }
