@@ -1,0 +1,4 @@
+- lumos option
+- bookmarking functionality
+    - by fic --> chapter?
+- notifications for updates
